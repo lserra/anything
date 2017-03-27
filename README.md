@@ -1,2 +1,2 @@
 # anything
-My ideas, draft scripts, textbooks, data for analysis, notebooks, etc.
+Various materials, like: cheat-sheets, draft scripts, datasets for analysis, notebooks, etc.
